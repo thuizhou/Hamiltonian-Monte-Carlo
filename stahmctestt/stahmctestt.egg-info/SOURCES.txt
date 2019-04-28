@@ -1,0 +1,7 @@
+setup.py
+stahmctestt/__init__.py
+stahmctestt.egg-info/PKG-INFO
+stahmctestt.egg-info/SOURCES.txt
+stahmctestt.egg-info/dependency_links.txt
+stahmctestt.egg-info/not-zip-safe
+stahmctestt.egg-info/top_level.txt
